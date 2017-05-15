@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "adept-insight-92107"
+    "default": "adept-insight-92107",
+    "dev": "adept-insight-92107"
   }
 }
